@@ -1,2 +1,2 @@
-# Laboratorio_Bucles-
+# Laboratorio_Bucles
 Trabajo individual: Laboratorio Bucles 
